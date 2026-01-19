@@ -1,5 +1,6 @@
 # 📊 FinLearn: Financial Literacy for the Next Generation
     🏆 2nd Place Winner at the She Innovates Hackathon (Sponsored by PNC Bank)
+**Role: Product Lead | UI Lead**
 
 FinLearn is a scalable financial literacy platform designed to bridge the education gap for teenagers and young adults. Developed in a high-pressure **30-hour sprint**, the platform transforms complex financial jargon into a gamified, digestible experience to help users navigate savings, budgeting, and debt management.
 
