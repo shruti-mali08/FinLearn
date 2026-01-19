@@ -16,7 +16,7 @@ Financial instability often stems from a lack of foundational knowledge during f
 - **Integrations**: RSS Financial News Feed
 
 ## 📸 Interface Gallery 
-
+(Click on images to enlarge)
 <table>
     <tr>
         <td>
